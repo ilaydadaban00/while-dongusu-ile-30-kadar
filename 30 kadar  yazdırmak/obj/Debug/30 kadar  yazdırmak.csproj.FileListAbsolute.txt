@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\bin\Debug\30 kadar  yazdırmak.exe.config
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\bin\Debug\30 kadar  yazdırmak.exe
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\bin\Debug\30 kadar  yazdırmak.pdb
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\30 kadar  yazdırmak.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\_30_kadar__yazdırmak.Form1.resources
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\_30_kadar__yazdırmak.Properties.Resources.resources
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\30 kadar  yazdırmak.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\30 kadar  yazdırmak.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\30 kadar  yazdırmak.exe
+C:\Users\ben\source\repos\30 kadar  yazdırmak\30 kadar  yazdırmak\obj\Debug\30 kadar  yazdırmak.pdb
